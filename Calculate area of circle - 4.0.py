@@ -1,3 +1,7 @@
+    #  First code created!  I'm sure there's a way to compact this code...  #
+    #  I just haven't found a way to do it with my knowledge currently  #
+    #  11/8/16  #
+
 import time  #  code = time.sleep (1.00["or whatever amount of time you want")
 import math  #  this was to import "pi" into the equation  #
 
